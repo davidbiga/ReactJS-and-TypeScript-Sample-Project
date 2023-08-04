@@ -1,6 +1,8 @@
 # Sample TypeScript/ReactJS frontend and backend project
 This sample project is to demonstrate both frontend and backend services that could also be leveraged as a simple mono-architecture or microservice architecture.
 
+See demonstration at http://18.222.210.109:3000/
+
 ## Running
 A simple `npm install` for both the backend and frontend projects and running `npm run dev` in two different servers.  Note that you will need an API key NASA at https://api.nasa.gov/.
 
